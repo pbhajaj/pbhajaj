@@ -97,7 +97,7 @@ export const About = () => {
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
             I'm a Master's student in Computer Science at Binghamton University focused on AI for
             healthcare, generative systems, and large-scale data platforms. I thrive at the nexus of
-            research and product engineering—rapidly prototyping ideas, validating them with data,
+            research and product engineering, rapidly prototyping ideas, validating them with data,
             and deploying them to the cloud with strong MLOps practices.
           </p>
         </div>
