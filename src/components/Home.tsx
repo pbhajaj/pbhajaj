@@ -80,7 +80,7 @@ export const Home = () => {
                 variant="secondary"
                 className="bg-white text-primary hover:bg-white/90"
                 onClick={() =>
-                  window.open("https://www.linkedin.com/in/prembhajaj/", "_blank")
+                  window.open("https://drive.google.com/file/d/10JXQRdUsBPxH6-0L_ryQOxS2eR07kZk-/view?usp=drive_link", "_blank")
                 }
               >
                 View Resume
