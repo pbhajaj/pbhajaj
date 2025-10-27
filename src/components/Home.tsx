@@ -95,7 +95,7 @@ export const Home = () => {
               </Button>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+            {/* <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
               {highlightStats.map((stat) => (
                 <div
                   key={stat.title}
@@ -113,7 +113,7 @@ export const Home = () => {
                   </p>
                 </div>
               ))}
-            </div>
+            </div> */}
 
             <div className="flex flex-wrap gap-4 justify-center lg:justify-start pt-2">
               {quickLinks.map((item) => (
