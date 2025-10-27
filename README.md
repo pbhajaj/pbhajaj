@@ -8,13 +8,6 @@ This site showcases Prem Bhajaj’s background, projects, and experience in AI, 
 - Responsive navigation with smooth-scroll anchors.
 - Publications section linking to Springer, Taylor & Francis, and IRJET articles.
 
-## Development
-
-```bash
-npm install
-npm run dev        # starts Vite on http://localhost:5173
-npm run build      # production bundle
-```
 
 
 ## Connect
