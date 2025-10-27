@@ -15,13 +15,6 @@ This portfolio showcases my work, projects, skills, and experiences in software 
 
 - LinkedIn - www.linkedin.com/in/prembhajaj
 
-# Deploying to GitHub Pages
-
-1. Ensure your repository is connected to GitHub and the `main` branch is up to date.
-2. Run `npm install` (once) to grab dependencies including `gh-pages`.
-3. Build and publish the latest site with `npm run deploy`. This runs `npm run build` and pushes the `dist` folder to the `gh-pages` branch via the `gh-pages` CLI.
-4. In your GitHub repository settings, set GitHub Pages to serve from the `gh-pages` branch (root).
-5. After GitHub finishes publishing, your portfolio will be available at `https://<username>.github.io/<repo>/`.
 
 #
 Thank you for checking out my portfolio!
