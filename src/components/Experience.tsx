@@ -16,7 +16,7 @@ export const Experience = () => {
   const experiences: ExperienceEntry[] = [
     {
       company: "Sostos Inc",
-      role: "Data Scientist Intern",
+      role: "Data Scientist",
       duration: "Aug 2025 - Present",
       location: "Remote",
       description:

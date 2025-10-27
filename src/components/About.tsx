@@ -96,7 +96,7 @@ export const About = () => {
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
             I'm a Master's student in Computer Science at Binghamton University focused on AI for
-            healthcare, generative systems, and large-scale data platforms. I thrive at the nexus of
+            healthcare, finance, generative systems, and large-scale data platforms. I thrive at the nexus of
             research and product engineering, rapidly prototyping ideas, validating them with data,
             and deploying them to the cloud with strong MLOps practices.
           </p>
@@ -134,7 +134,7 @@ export const About = () => {
         </div>
 
         {/* Key Highlights */}
-        <div>
+        {/* <div>
           <h3 className="text-2xl font-bold text-center text-primary mb-8">What I Bring</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {highlights.map((highlight, index) => (
@@ -147,7 +147,7 @@ export const About = () => {
               </Card>
             ))}
           </div>
-        </div>
+        </div> */}
 
         <div className="mt-16 max-w-4xl mx-auto">
           <h3 className="text-2xl font-bold text-center text-primary mb-6">Publications</h3>
