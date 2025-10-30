@@ -31,6 +31,7 @@ export const Projects = () => {
       description:
         "Distributed PyTorch system combining UNet++ variants to accelerate digital pathology workflows for large tissue slides.",
       technologies: ["UNet++", "PyTorch", "CUDA", "Distributed Training", "Computer Vision"],
+      github: "https://github.com/prembhajaj/Cell-Segmentation-And-Classification-Pipeline",
       features: [
         "Ensembled three segmentation backbones to lift mean IoU from 0.68 to 0.83 on curated tissue datasets.",
         "Engineered sliding-window inference and GPU-aware scheduling that cut slide processing from 50 hours to 6 hours.",
