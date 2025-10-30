@@ -41,13 +41,14 @@ export const Projects = () => {
     {
       title: "Social Media Sentiment Analysis - Reddit & 4chan",
       description:
-        "End-to-end NLP pipeline built with Spark on AWS EMR to classify market sentiment across 100K+ finance posts.",
-      technologies: ["Spark NLP", "AWS EMR", "Kafka", "Logistic Regression", "Python"],
+        "End-to-end NLP pipeline built with Spark NLP to flag 20K+ toxic finance posts with  an interactive real-time dashboard, with 4 intuitive filters",
+      technologies: ["Spark NLP", "AWS Fargate", "ECS", "Big Data", "Python"],
       github: "https://github.com/prembhajaj/Social-Media-Sentiment-Analysis",
       features: [
         "Streamlined ingestion from Reddit and 4chan plus cleaning utilities for noisy social data.",
-        "Trained Spark NLP + Logistic Regression model reaching an F1 score of 0.89.",
+        "Utilized Spark NLP model to flag toxic content reaching an F1 score of 0.89.",
         "Productionized via EMR with job orchestration so analysts can refresh predictions on-demand.",
+        "Built an interactive dashboardwith real-time sentiment visualizations and filtering options.",
       ],
     },
   ];
