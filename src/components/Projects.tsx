@@ -19,6 +19,7 @@ export const Projects = () => {
       description:
         "Agentic AI copilot where Gemini-powered tools analyze TCGA clinical, genomic, and imaging data to answer clinician prompts with actionable survival guidance.",
       technologies: ["CrewAI", "LangChain", "Gemini APIs", "Agentic AI", "Python", "FastAPI"],
+      github: "https://github.com/prembhajaj/Survival-Prognosis-Assistant",
       features: [
         "Tool-calling workflow selects the right analytic path per prompt to reach 95% accuracy on retrospective cases.",
         "Prompt engineering plus caching and tool composition lowered token consumption and API cost by 65%.",
@@ -41,6 +42,7 @@ export const Projects = () => {
       description:
         "End-to-end NLP pipeline built with Spark on AWS EMR to classify market sentiment across 100K+ finance posts.",
       technologies: ["Spark NLP", "AWS EMR", "Kafka", "Logistic Regression", "Python"],
+      github: "https://github.com/prembhajaj/Social-Media-Sentiment-Analysis",
       features: [
         "Streamlined ingestion from Reddit and 4chan plus cleaning utilities for noisy social data.",
         "Trained Spark NLP + Logistic Regression model reaching an F1 score of 0.89.",
